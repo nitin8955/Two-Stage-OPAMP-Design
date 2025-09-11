@@ -24,7 +24,7 @@ Design and Layout implementation of a high-performance two-stage Operational Amp
    - Miller-compensated two-stage op-amps are commonly used in high-frequency applications where both bandwidth and stability are critical factors, such as in communication systems, instrumentation amplifiers, and other precision electronics.
 
 # Circuit
-![image](https://github.com/chennakeshavadasa/Design-and-Layout-Implementation-of-Two-stage-Opamp-using-45-90-180nm-Technology/assets/123294639/a5308f86-378b-4f4c-ae18-80641894a93e)
+![image](https://github.com/chennakeshavadasa/Design-and-Layout-Implementation-of-Two-stage-Opamp-using-45-90-180nm-Technology/assets/123294639/a5308f86-378b-4f4c-ae18-80641894a93e) 
 
 # Design-Specification
 Check out each process technology folder 
@@ -40,11 +40,9 @@ I5 is found using Slew Rate <br>
 180nm <br>
 
 # References 
-CMOS Analog Circuit Design - Book by Douglas Holberg and Phillip E. Allen <br>
-Youtube
+CMOS Analog Circuit Design - youtube 
 
-# Status
-Ongoing
+
 
 
 
